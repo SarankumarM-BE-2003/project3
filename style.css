@@ -50,6 +50,6 @@ input:focus{
 
 @media screen and(max-width:540px){
     .container{
-        margin: 5px;
+        margin-top: 20px;
     }
 }
