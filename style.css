@@ -15,11 +15,7 @@ body{
     padding: 10px;
     border-radius: 5px;
     text-align: center;
-    
-   
 }
-
-
 .currency-container{
     padding: 20px;
     display: flex;
@@ -42,14 +38,7 @@ body{
     font-size: 16px;
     font-weight: 600;
 }
-
 select:focus,
 input:focus{
     outline: 0;
-}
-
-@media screen and(max-width:540px){
-    .container{
-        margin-top: 20px;
-    }
 }
